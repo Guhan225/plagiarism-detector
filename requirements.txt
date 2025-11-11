@@ -1,8 +1,6 @@
 streamlit
-sentence-transformers
+requests
 PyPDF2
 python-docx
-transformers
+sentence-transformers
 torch
-requests
-beautifulsoup4
