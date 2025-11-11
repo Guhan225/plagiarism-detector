@@ -1,5 +1,4 @@
-# Cell 2: create app.py
-%%writefile /content/app.py
+# Step 2: create app.py
 import os
 import streamlit as st
 import requests
@@ -126,3 +125,4 @@ if st.button("Check plagiarism"):
 
 st.markdown("---")
 st.caption("Notes: This is a heuristic check using Google Custom Search; use higher 'Number of sentence checks' for better coverage, but watch API quota.")
+
